@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Don't let anything get in your way.
+✨ `alias git-yolo='git commit --no-verify && git push --force'` 
 <!--
 **lettucegoblin/lettucegoblin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
